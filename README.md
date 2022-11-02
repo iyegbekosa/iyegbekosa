@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @iyegbekosa
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Djago framework
-- ⌘ I’m looking to collaborate on all kinds of projects built in python
-- 📫 How to reach me aikpitanyi.iyegbekosa@gmail.com
+- 👻 I’m a web🕸 developer
+- ⌘ I’m looking to collaborate on all kinds of projects built in python and Django framework
+- 📫 You can reach me through aikpitanyi.iyegbekosa@gmail.com
 
 <!---
 iyegbekosa/iyegbekosa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
